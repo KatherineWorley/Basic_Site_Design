@@ -4,15 +4,12 @@
 /*Light Gray #DCDCDC*/
 
 
-
-
-
 /*Global Settings*/
 
-
-
-
-
+.content-warp {
+	width: 950px;
+	margin: 0 auto;
+}
 
 /*Header and Footer */
 
@@ -23,8 +20,6 @@ header, footer {
 header h1, header h2 {
 	background: #DCDCDC;
 }
-
-
 
 /*Body of HTML*/
 body {
@@ -41,16 +36,11 @@ a:hover {
 }
 
 
-
-
-
 /*Work Experience*/
 
 .work {
 	background: #b2d8d8;
 }
-
-
 
 
 
