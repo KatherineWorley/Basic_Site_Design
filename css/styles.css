@@ -1,12 +1,12 @@
-/*Color Palette */
+/*////////////////////////////*Color Palette */
 /*Teal #00b3b3*/
 /*Light Teal #b2d8d8*/
 /*Light Gray #DCDCDC*/
 
 
-/*Global Settings*/
+/*////////////////////////////*Global Settings*/
 
-.content-warp {
+.content-wrap {
 	width: 950px;
 	margin: 0 auto;
 }
@@ -19,7 +19,7 @@ h2 {
 	font-size: 40px;
 }
 
-/*Header and Footer */
+/*////////////////////////////Header and Footer */
 
 header, footer {
 	background: #00b3b3;
@@ -29,7 +29,7 @@ header h1, header h2 {
 	background: #DCDCDC;
 }
 
-/*Body of HTML*/
+/*////////////////////////////*Body of HTML*/
 body {
 	font-family: 'Montserrat', sans-serif;
 }
@@ -44,7 +44,7 @@ a:hover {
 }
 
 
-/*Work Experience*/
+/*////////////////////////////*Work Experience*/
 
 .work {
 	background: #b2d8d8;
@@ -52,7 +52,7 @@ a:hover {
 
 
 
-/*Education */
+/*////////////////////////////*Education */
 .eduction {
 	background: #DCDCDC; 
 }
