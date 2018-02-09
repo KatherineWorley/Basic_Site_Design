@@ -5,7 +5,6 @@
 
 
 /*////////////////////////////*Global Settings*/
-
 .content-wrap {
 	max-width: 950px;
 	margin: 0 auto;
@@ -22,22 +21,25 @@ h2 {
 }
 
 /*////////////////////////////Header and Footer */
-
 header, footer {
 	background: #00b3b3;
 }
 
 
 /*////////////////////////////Header */
-
 header h1, header h2 {
 	background: #DCDCDC;
 }
 
 /*////////////////////////////Footer */
-
 footer {
 	text-align: center;
+}
+
+.contact-info a {
+	background: white;
+	margin: 10px;
+
 }
 
 
@@ -58,7 +60,6 @@ a:hover {
 
 
 /*////////////////////////////*Work Experience*/
-
 .work {
 	background: #b2d8d8;
 }
