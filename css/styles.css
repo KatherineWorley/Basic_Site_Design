@@ -20,12 +20,27 @@ header, footer {
 	background: #00b3b3;
 }
 
+header h1, header h2 {
+	background: #DCDCDC;
+}
+
 
 
 /*Body of HTML*/
 body {
 	
 }
+
+a {
+	color; white;
+}
+
+
+a:hover {
+	text-decoration: none;
+}
+
+
 
 
 
@@ -34,6 +49,9 @@ body {
 .work {
 	background: #b2d8d8;
 }
+
+
+
 
 
 /*Education */
