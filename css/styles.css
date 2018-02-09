@@ -1,4 +1,15 @@
+header, footer {
+	background: #00b3b3;
+}
+
 body {
 	
 }
 
+.work {
+	background: #b2d8d8;
+}
+
+.eduction {
+	background: #DCDCDC; 
+}
