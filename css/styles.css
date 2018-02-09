@@ -27,13 +27,24 @@ header, footer {
 	background: #00b3b3;
 }
 
+
+/*////////////////////////////Header */
+
 header h1, header h2 {
 	background: #DCDCDC;
 }
 
+/*////////////////////////////Footer */
+
+footer {
+	text-align: center;
+}
+
+
 /*////////////////////////////*Body of HTML*/
 body {
 	font-family: 'Montserrat', sans-serif;
+	margin: 0;
 }
 
 a {
