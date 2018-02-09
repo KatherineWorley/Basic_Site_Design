@@ -1,15 +1,42 @@
+/*Color Palette */
+/*Teal #00b3b3*/
+/*Light Teal #b2d8d8*/
+/*Light Gray #DCDCDC*/
+
+
+
+
+
+/*Global Settings*/
+
+
+
+
+
+
+/*Header and Footer */
+
 header, footer {
 	background: #00b3b3;
 }
 
+
+
+/*Body of HTML*/
 body {
 	
 }
+
+
+
+/*Work Experience*/
 
 .work {
 	background: #b2d8d8;
 }
 
+
+/*Education */
 .eduction {
 	background: #DCDCDC; 
 }
