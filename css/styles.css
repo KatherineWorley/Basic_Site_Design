@@ -34,9 +34,19 @@ header, footer {
 
 /*////////////////////////////Header */
 header {
+
 }
 
+header h1, header h2 {
+	color: #DCDCDC;
+	margin: 0;
+}
 
+.profile-image {
+	width: 300px;
+	border-radius: 40px;
+	float: left;
+}
 
 
 /*////////////////////////////Footer */
