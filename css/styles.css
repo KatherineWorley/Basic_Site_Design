@@ -5,16 +5,9 @@
 
 
 /*////////////////////////////*Global Settings*/
-
 html {
 	background: #00b3b3;
 
-}
-
-.content-wrap {
-	max-width: 950px;
-	margin: 0 auto;
-	padding: 50px;
 }
 
 h1 {
@@ -25,6 +18,13 @@ h2 {
 	font-size: 40px;
 	margin-top: 0;
 }
+
+.content-wrap {
+	max-width: 950px;
+	margin: 0 auto;
+	padding: 50px;
+}
+
 
 /*////////////////////////////Header and Footer */
 header, footer {
