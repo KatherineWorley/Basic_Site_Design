@@ -33,12 +33,14 @@ h2 {
 .col-narrow {
 	width: 30%;
 	float: left;
+	min-height: 175px;
 }
 
 .col-wide {
 	width: 70%;
 	float: left;
 	padding-left: 20px;
+	min-height: 175px;
 }
 
 
