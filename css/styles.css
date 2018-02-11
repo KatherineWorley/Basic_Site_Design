@@ -38,11 +38,12 @@ h2 {
 .col-wide {
 	width: 70%;
 	float: left;
+	padding-left: 20px;
 }
 
 /*////////////////////////////Header and Footer */
 header, footer {
-	background: #00b3b3;
+	/*background: #00b3b3;*/
 }
 
 
@@ -59,8 +60,8 @@ header h1, header h2 {
 .profile-image {
 	width: 300px;
 	border-radius: 50px;
-/*	float: left;
-	margin-right: 40px;*/
+	float: left;
+	margin-right: 40px;
 }
 
 /*////////////////////////////Footer */
