@@ -41,11 +41,6 @@ h2 {
 	padding-left: 20px;
 }
 
-/*////////////////////////////Header and Footer */
-header, footer {
-	/*background: #00b3b3;*/
-}
-
 
 /*////////////////////////////Header */
 header {
@@ -54,7 +49,7 @@ header {
 
 header h1, header h2 {
 	color: #DCDCDC;
-	margin: 0;
+	/*margin: 0;*/
 }
 
 .profile-image {
@@ -88,6 +83,11 @@ a {
 
 a:hover {
 	text-decoration: none;
+}
+
+/*////////////////////////////*Work Experience*/
+.about {
+	background: #DCDCDC;
 }
 
 /*////////////////////////////*Work Experience*/
